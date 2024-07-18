@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently, I'm working on: Antivirus project.<br><br>📫 Contact me at: alisahinpisirici@gmail.com.<br><br>🌱 I'm currently learning: Reverse Engineering.<br><br>💬 Ask me about: I'm well-versed in answering any questions about Cyber Security.
+🔭 Currently, I'm working on: Antivirus project.<br><br>📫 Contact me at: alisahinpisirici@gmail.com.<br><br>💬 Ask me about: I'm well-versed in answering any questions about Cyber Security.
 
 
 ## 🌐 Socials:
